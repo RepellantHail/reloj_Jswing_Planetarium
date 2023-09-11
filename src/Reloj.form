@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form xmlns="http://www.intellij.com/uidesigner/form/" version="1" bind-to-class="Reloj">
+  <grid id="27dc6" binding="mainContainer" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+    <constraints>
+      <xy x="20" y="20" width="884" height="717"/>
+    </constraints>
+    <properties>
+      <background color="-14866095"/>
+      <foreground color="-14866095"/>
+    </properties>
+    <border type="none"/>
+    <children>
+      <grid id="8b7b3" binding="watchFaceContainer" layout-manager="FlowLayout" hgap="5" vgap="5" flow-align="1">
+        <constraints/>
+        <properties>
+          <background color="-14866095"/>
+          <foreground color="-14866095"/>
+        </properties>
+        <border type="none"/>
+        <children/>
+      </grid>
+    </children>
+  </grid>
+</form>
